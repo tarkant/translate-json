@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         translate-json
-// @namespace    https://github.com/tarkant/translate-json
+// @namespace    https://github.com/tarkant
 // @version      1.0
 // @description  Translate JSON files directley in the page without messing up your JSON's structure.
 // @licence      https://creativecommons.org/licenses/by-nc/2.0/
@@ -8,6 +8,8 @@
 // @match        https://translate.google.com/
 // @include      /(www\.deepl\.com(\/.+){0,1}(\/translator).*)/
 // @grant        none
+// @updateURL   https://raw.githubusercontent.com/tarkant/translate-json/master/translate-json.js
+// @downloadURL https://raw.githubusercontent.com/tarkant/translate-json/master/translate-json.js
 // ==/UserScript==
 
 (function() {
