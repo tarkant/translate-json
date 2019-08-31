@@ -8,8 +8,8 @@
 // @match        https://translate.google.com/
 // @include      /(www\.deepl\.com(\/.+){0,1}(\/translator).*)/
 // @grant        none
-// @updateURL   https://raw.githubusercontent.com/tarkant/translate-json/master/translate-json.js
-// @downloadURL https://raw.githubusercontent.com/tarkant/translate-json/master/translate-json.js
+// @updateURL   https://github.com/tarkant/translate-json/raw/master/translate-json.user.js
+// @downloadURL https://github.com/tarkant/translate-json/raw/master/translate-json.user.js
 // ==/UserScript==
 
 (function() {

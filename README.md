@@ -14,7 +14,7 @@ You can try the `example.json` if you want to see by yourself.
 ## How to use this script?
 
 You'll need [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Google Chrome or [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox extension installed.
-Once done, just [download the script here](https://raw.githubusercontent.com/tarkant/translate-json/master/translate-json.js).
+Once done, just [download the script here](https://github.com/tarkant/translate-json/raw/master/translate-json.user.js).
 Then go to Google Translate or DeepL and try it.
 
 ## Options are possible
