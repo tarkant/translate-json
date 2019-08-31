@@ -11,6 +11,12 @@ This script is for your own personal use. I'm not responsible of any misuse or T
 Simple, it will inject the script on your webpage and display a textarea, you paste your full JSON and click translate, the script will go through each entry, input it in your place copy the translate and associate it. The output JSON will then appear in the output textarea.
 You can try the `example.json` if you want to see by yourself.
 
+## How to use this script?
+
+You'll need [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Google Chrome or [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox extension installed.
+Once done, just [download the script here](https://raw.githubusercontent.com/tarkant/translate-json/master/translate-json.js).
+Then go to Google Translate or DeepL and try it.
+
 ## Options are possible
 
 You can change the delay in the input that says delay, the script takes some time between each translate to take into account the time for translating and displaying the content. _Why not catch a change event?_ you'd ask, to this question I have three answers :
