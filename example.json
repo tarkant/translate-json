@@ -1,0 +1,23 @@
+{
+  "APP": {
+    "TITLE": "Cookie dealer app",
+    "DESCRIPTION": "We deal cookies freshly backed!",
+    "HOME": {
+      "BUTTONS": {
+        "CLOSE": "Close",
+        "OPEN": "Open",
+        "BUY": "Buy"
+      }
+    },
+    "ABOUT": {
+      "TITLE": "Who are we?",
+      "DESCRIPTION": "Cool people who want to share a cookie with you.",
+      "Q1": "Are cookies dangerous for health?",
+      "A-1": "No, but if you eat too much of them, like anything in this world, it will become bad for your health.",
+      "TIP_1": "Please subscribe to our newsletter <strong>cookie@example.com</strong>!",
+      "hidden": {
+        "what_is_love": "\"Baby don't hurt me\""
+      }
+    }
+  }
+}
