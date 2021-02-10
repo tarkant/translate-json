@@ -1,5 +1,7 @@
 # translate-json
 
+**⚠️ Google Translate has changed how it manipulates its DOM which broke this script. It will still work on DeepL for now. I'm going to try to fix this ASAP.**
+
 translate-json is a dirty and cheap injectable JavaScript code that will just help you translate those goddam JSON locales.
 
 ## Disclaimer
